@@ -21,7 +21,5 @@ public class Udregninger {
     static int secret(int a, int b) {
         return (a * b * 4) / a;
     }
-
-
-    }
+}
 
