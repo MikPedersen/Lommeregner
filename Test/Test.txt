@@ -1,4 +1,4 @@
 Input:
-alle udregninger og stop funktion
+alle udregninger
 Forventet output
 assert.equals == true
